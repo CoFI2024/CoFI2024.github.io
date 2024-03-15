@@ -1,8 +1,18 @@
 ## Organisers
 
-* Maurizio Mancini, University of Rome “Sapienza”, Italy
-* David Murphy, University College Cork
-* Giovanna Varni, LTCI, Télécom Paris, Institut polytechnique de Paris, France
-* David Murphy, University College Cork (UCC), Ireland
-* Fabio Pellacini, University of Rome “Sapienza”, Italy
-* Laura Maye, University College Cork, Ireland
+* Radoslaw Niewiadomski (radoslaw.niewiadomski@unige.it)
+DIBRIS, University of Genoa (Italy)
+https://radoslawniewiadomski.github.io
+
+* Ferran Altarriba Bertran (ferran.altarriba.bertran@eram.cat) 
+Escola Universitària ERAM (Girona, Spain)
+https://ferranaltarriba.com
+
+* Christopher Dawes (c.dawes@ucl.ac.uk)
+UCL, Department of Computer Science, Multi-Sensory Devices (MSD) Research Group
+
+* Marianna Obrist (m.obrist@ucl.ac.uk)
+UCL, Department of Computer Science, Multi-Sensory Devices (MSD) Research Group
+
+* Maurizio Mancini (m.mancini@di.uniroma1.it)
+Department of Computer Science, Sapienza University of Rome.
