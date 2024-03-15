@@ -4,19 +4,17 @@
 
 http://ceur-ws.org/Vol-2934/-->
 
-## Important dates (updated):
+Commensality, the act of eating together, offers a rich multisensory and social experience that can be enhanced through technology. Dining involves interactions with food, where smells, colors, sounds, and textures contribute to a multisensory experience and the table becomes a focal point for social interaction, with nonverbal cues and conversations being indispensable elements of commensal experience.
+
+This workshop aims to explore how interactive technology can enrich dining experiences. The other aim is to build an interdisciplinary community around the topics of related to commensality and human-food interaction, with special focus on the role of multimodal interaction among commensal partners sharing food, being humans or artificial dining companions (such as social robots). We aim to collect novel contributions that explore how interactive technology can enhance, facilitate, or make these experiences more enjoyable.
+
+## Important dates:
 
 TBA
 
 ## Submission instructions
 
 TBA
-
-## Workshop description
-
-Commensality, the act of eating together, offers a rich multisensory and social experience that can be enhanced through technology. Dining involves interactions with food, where smells, colors, sounds, and textures contribute to a multisensory experience and the table becomes a focal point for social interaction, with nonverbal cues and conversations being indispensable elements of commensal experience.
-
-This workshop aims to explore how interactive technology can enrich dining experiences. The other aim is to build an interdisciplinary community around the topics of related to commensality and human-food interaction, with special focus on the role of multimodal interaction among commensal partners sharing food, being humans or artificial dining companions (such as social robots). We aim to collect novel contributions that explore how interactive technology can enhance, facilitate, or make these experiences more enjoyable. 
 
 ## Topics of interest
 
