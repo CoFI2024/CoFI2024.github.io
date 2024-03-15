@@ -1,61 +1,66 @@
-## MIXR - 1st International Workshop on Multi-party Interaction in eXtended Reality
+## First Multimodal Banquet: Exploring Innovative Technology for Commensality and Human-Food Interaction (CoFI2024)
 
-MIXR will be held <strong>online</strong> in conjunction with [CHItaly 2021](https://chitaly2021.inf.unibz.it/)
+<!--## Proceedings
 
-MIXR is an <strong>International</strong> Workshop, so all the submissions, proceedings, presentations will be in <strong>English</strong>.
+http://ceur-ws.org/Vol-2934/-->
 
-## Proceedings
-
-http://ceur-ws.org/Vol-2934/
-
-<!--
 ## Important dates (updated):
 
-* May 18th, 2021 - <strong>[extended]</strong> Paper submission
-* July 12, 2021 - Workshops
-
-(All deadlines are meant till 11.59 pm CET)
+TBA
 
 ## Submission instructions
 
-Short papers (6 pages) can be submitted through EasyChair: [https://easychair.org/my/conference?conf=mixr21#](https://easychair.org/my/conference?conf=mixr21#)
-
-Authors should use the 1 column CEUR-ART style:
-* The style is available from: Vol-XXX
-* An Overleaf page is available at: [https://www.overleaf.com/read/gwhxnqcghhdt](https://www.overleaf.com/read/gwhxnqcghhdt)
-* The offline version with the style files is at: [http://ceur-ws.org/Vol-XXX/CEURART.zip](http://ceur-ws.org/Vol-XXX/CEURART.zip)
--->
+TBA
 
 ## Workshop description
 
-XR, or eXtended Reality, is an umbrella term that encompasses the areas of AR, VR, and MR, with strong emphasis on immersiveness, multimodality and presence. XR is a multidisciplinary field incorporating subjects such as computer science, psychology, cognitive science, and digital humanities. Within XR, collaborative environments is one of the fastest growing areas, as can be seen by the number of social VR worlds available today. Most of these environments focus on the graphical aspects of the environment, not fully taking advantage of multimodal and multi-party design. Interaction in these environments is largely limited to text chats and, in the case of a few systems, voice interaction.
-Deeper and more meaningful engagement and interaction in XR can be achieved by leveraging the principles of Social Signal Processing (SSP) and Affective Computing (AC). Due to the simultaneous one-to-one and one-to-many interactions that establish and evolve over time, Multi-party (group) Interaction in XR is a complex process, whose analysis is still an open challenge in SSP/AC.
+Commensality, the act of eating together, offers a rich multisensory and social experience that can be enhanced through technology. Dining involves interactions with food, where smells, colors, sounds, and textures contribute to a multisensory experience and the table becomes a focal point for social interaction, with nonverbal cues and conversations being indispensable elements of commensal experience.
 
-Nowadays, the need for exploring Multi-party Interaction in XR settings is expanding, as people are increasingly meeting remotely through teleconferencing tools for practical reasons (e.g., working and living abroad) or, for example, as a result of the social restrictions related to the ongoing COVID-19 pandemic.
-MIXR seeks to progress research on Multi-party Interaction in XR by pursuing the following objectives:
-- to investigate how social science theories and models of Multi-party Interaction can be applied in or possibly adapted to XR scenarios
-- to develop techniques for collecting multimodal data of Multi-party Interaction
-- to promote interdisciplinary discussion and collaboration between scholars in Computer Science and Social Sciences on XR, Social Signal Processing, Affective Computing, Multi-party Interaction
+This workshop aims to explore how interactive technology can enrich dining experiences. The other aim is to build an interdisciplinary community around the topics of related to commensality and human-food interaction, with special focus on the role of multimodal interaction among commensal partners sharing food, being humans or artificial dining companions (such as social robots). We aim to collect novel contributions that explore how interactive technology can enhance, facilitate, or make these experiences more enjoyable. 
 
 ## Topics of interest
 
-We invite participants to submit short (6 pages) papers that focus on Multi-party Interaction in XR. Topics of interest include Multi-Party (team/group) Interaction in XR, covering the following research areas:
-
-* Emotion recognition and expression
-* Movement expressivity
-* Team emergent states and dynamics
-* Joint activity/collaboration
-* Immersive CSCW
-* Education and creativity
-* Serious games
-* Multimodality
-* Interaction fidelity
-* Theoretical models
-* System/interface ergonomics
-* Novel technologies
+- Multimodal interaction in commensal setting
+- Commensal activity recognition
+- Cultural aspects of commensality
+- Artificial agents (social robots, virtual companions) in commensality setting
+- Interactive technology for sustainable. healthy eating and well-being
+- Tele- and remote dining
+- Food and eating as playful experience
+- Commensality and food interaction in digital (VR/AR) spaces
+- Critical human-food interaction design and research
+- Food, interactive tech, and sustainability
+- Multimodal food perception
+- Tracking edible objects
+- Designing cross-cultural food and commensal interactions
+- Sensory augmentation for novel eating experience
+- Gamification in HFI and commensality
+- Personalizing eating experiences
+- Eating as a multisensory experience
+- Computational models of commensals interaction
+- Commensality and Food in Social Media
+- Social AI and commensal practices
 
 ## Organisers
 
+* Radoslaw Niewiadomski (radoslaw.niewiadomski@unige.it)
+DIBRIS, University of Genoa (Italy)
+https://radoslawniewiadomski.github.io
+
+* Ferran Altarriba Bertran (ferran.altarriba.bertran@eram.cat) 
+Escola Universitària ERAM (Girona, Spain)
+https://ferranaltarriba.com
+
+* Christopher Dawes (c.dawes@ucl.ac.uk)
+UCL, Department of Computer Science, Multi-Sensory Devices (MSD) Research Group
+
+* Marianna Obrist (m.obrist@ucl.ac.uk)
+UCL, Department of Computer Science, Multi-Sensory Devices (MSD) Research Group
+
+* Maurizio Mancini (m.mancini@di.uniroma1.it)
+Department of Computer Science, Sapienza University of Rome.
+
+<!--
 * [Maurizio Mancini](mailto:m.mancini@di.uniroma1.it), University of Rome “Sapienza”, Italy
 * [Giovanna Varni](mailto:giovanna.varni@telecom-paris.fr), LTCI, Télécom Paris, Institut polytechnique de Paris, France
 * [David Murphy](mailto:d.murphy@cs.ucc.ie), University College Cork (UCC), Ireland
@@ -71,3 +76,4 @@ This workshop has been partially supported by the French National Research Agenc
 <img src="logo-anr.png" alt="ANR" width="60" style="float: left; margin-right: 10px;"/>
 <img src="LOGO_officiel_cropped.png" alt="ANR" width="180" style="float: left; margin-right: 10px;"/>
 
+-->
