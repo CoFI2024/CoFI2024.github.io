@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="styles/retro.css">
+<link rel="stylesheet" href="styles/images.css">
+
 ## First Multimodal Banquet: Exploring Innovative Technology for Commensality and Human-Food Interaction (CoFI2024)
 
 <!--## Proceedings
@@ -41,22 +44,27 @@ TBA
 
 ## Organisers
 
-* Radoslaw Niewiadomski (radoslaw.niewiadomski@unige.it)
+![alt text](images/Radek.jpg)<br/>
+Radoslaw Niewiadomski (radoslaw.niewiadomski@unige.it)
 DIBRIS, University of Genoa (Italy)
 https://radoslawniewiadomski.github.io
 
-* Ferran Altarriba Bertran (ferran.altarriba.bertran@eram.cat) 
+![alt text](images/Ferran.jpg)<br/>
+Ferran Altarriba Bertran (ferran.altarriba.bertran@eram.cat) 
 Escola Universitària ERAM (Girona, Spain)
 https://ferranaltarriba.com
 
-* Christopher Dawes (c.dawes@ucl.ac.uk)
+![alt text](images/Chris.jpg)<br/>
+Christopher Dawes (c.dawes@ucl.ac.uk)
 UCL, Department of Computer Science, Multi-Sensory Devices (MSD) Research Group
 
-* Marianna Obrist (m.obrist@ucl.ac.uk)
+![alt text](images/Marianna.jpg)<br/>
+Marianna Obrist (m.obrist@ucl.ac.uk)
 UCL, Department of Computer Science, Multi-Sensory Devices (MSD) Research Group
 
-* Maurizio Mancini (m.mancini@di.uniroma1.it)
-Department of Computer Science, Sapienza University of Rome.
+![alt text](images/Maurizio.jpg)<br/>
+Maurizio Mancini (m.mancini@di.uniroma1.it)
+Department of Computer Science, Sapienza University of Rome
 
 <!--
 * [Maurizio Mancini](mailto:m.mancini@di.uniroma1.it), University of Rome “Sapienza”, Italy
