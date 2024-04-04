@@ -3,7 +3,7 @@
 
 ## First Multimodal Banquet: Exploring Innovative Technology for Commensality and Human-Food Interaction (CoFI2024)
 
-### Held in conjunction with ICMI2024 (Costa Rica) https://icmi.acm.org/2024
+### Held in conjunction with ICMI2024 (Costa Rica) <https://icmi.acm.org/2024>
 
 <!--## Proceedings
 
@@ -21,7 +21,11 @@ This workshop aims to explore how interactive technology can enrich dining exper
 
 ## Submission instructions
 
-TBA
+Papers can be short (4 pages + bibliography) or long (7 pages + bibliography) either in ACM sigconf Latex or Word format <https://www.acm.org/publications/authors/submissions>:
+
+- latex <https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip>
+- word (Windows) <https://portalparts.acm.org/hippo/enhanced_word_templates/Windows/windows.zip>
+- word (Mac) <https://portalparts.acm.org/hippo/enhanced_word_templates/MAC_2016/mac_2016.zip>
 
 ## Topics of interest
 
@@ -51,12 +55,12 @@ TBA
 ![alt text](images/Radek.jpg)<br/>
 Radoslaw Niewiadomski (radoslaw.niewiadomski@unige.it)
 DIBRIS, University of Genoa (Italy)
-https://radoslawniewiadomski.github.io
+<https://radoslawniewiadomski.github.io>
 
 ![alt text](images/Ferran.jpg)<br/>
 Ferran Altarriba Bertran (ferran.altarriba.bertran@eram.cat) 
 Escola Universitària ERAM (Girona, Spain)
-https://ferranaltarriba.com
+<https://ferranaltarriba.com>
 
 ![alt text](images/Chris.jpg)<br/>
 Christopher Dawes (c.dawes@ucl.ac.uk)
