@@ -3,6 +3,8 @@
 
 ## First Multimodal Banquet: Exploring Innovative Technology for Commensality and Human-Food Interaction (CoFI2024)
 
+### Held in conjunction with ICMI2024 (Costa Rica) https://icmi.acm.org/2024
+
 <!--## Proceedings
 
 http://ceur-ws.org/Vol-2934/-->
@@ -13,7 +15,9 @@ This workshop aims to explore how interactive technology can enrich dining exper
 
 ## Important dates:
 
-TBA
+- Paper submission (long and short): May 27, 2024
+- Notification of acceptance: June 24, 2024
+- Camera-ready version: July 12, 2024
 
 ## Submission instructions
 
