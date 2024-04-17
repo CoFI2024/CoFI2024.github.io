@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="styles/retro.css">
 <link rel="stylesheet" href="styles/images.css">
+[Committees](/committees.md)
 
 ## First Multimodal Banquet: Exploring Innovative Technology for Commensality and Human-Food Interaction (CoFI2024)
 
@@ -51,30 +52,6 @@ Papers can be short (4 pages + bibliography) or long (7 pages + bibliography) ei
 - Computational models of commensals interaction
 - Commensality and Food in Social Media
 - Social AI and commensal practices
-
-## Organisers
-
-![alt text](images/Radek.jpg)<br/>
-Radoslaw Niewiadomski (radoslaw.niewiadomski@unige.it)
-DIBRIS, University of Genoa (Italy)
-<https://radoslawniewiadomski.github.io>
-
-![alt text](images/Ferran.jpg)<br/>
-Ferran Altarriba Bertran (ferran.altarriba.bertran@eram.cat) 
-Escola Universitària ERAM (Girona, Spain)
-<https://ferranaltarriba.com>
-
-![alt text](images/Chris.jpg)<br/>
-Christopher Dawes (c.dawes@ucl.ac.uk)
-UCL, Department of Computer Science, Multi-Sensory Devices (MSD) Research Group
-
-![alt text](images/Marianna.jpg)<br/>
-Marianna Obrist (m.obrist@ucl.ac.uk)
-UCL, Department of Computer Science, Multi-Sensory Devices (MSD) Research Group
-
-![alt text](images/Maurizio.jpg)<br/>
-Maurizio Mancini (m.mancini@di.uniroma1.it)
-Department of Computer Science, Sapienza University of Rome
 
 <!--
 * [Maurizio Mancini](mailto:m.mancini@di.uniroma1.it), University of Rome “Sapienza”, Italy
