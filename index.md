@@ -1,12 +1,12 @@
 <link rel="stylesheet" href="styles/retro.css">
 <link rel="stylesheet" href="styles/images.css">
-![alt text](images/cofi2024-photo.png)
-
 [Committees](/committees.md)
 
 ## First Multimodal Banquet: Exploring Innovative Technology for Commensality and Human-Food Interaction (CoFI2024)
 
 ### Held in conjunction with ICMI2024 (Costa Rica) <https://icmi.acm.org/2024>
+
+![alt text](images/cofi2024-photo.png)
 
 <!--## Proceedings
 
