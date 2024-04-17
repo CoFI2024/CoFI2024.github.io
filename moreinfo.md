@@ -16,10 +16,16 @@ To achieve these goals, the primary workshop activity will be hands-on, using th
 Welcoming diverse participants from fields like computer science and psychology, we aim to foster a exchange of ideas that would not otherwise be possible. The focus is on developing new solutions and speculative prototypes, with participants contributing to a post-workshop academic paper addressing some of the Grand Challenges. This endeavor is expected to influence research approaches and policy discussions, enhancing the study of multimodal interactive technology in commensal settings through hands-on speculative design. 
 
 [1] Mueller, F.F., Obrist, M., Bertran, F.A., Makam, N., Kim, S., Dawes, C., ... & Wang, Y. (2023). Grand Challenges in Human-Food Interaction, International Journal of Human-Computer Studies,Volume 183, 2024, 103197, ISSN 1071-581.
+
 [2] COmputational Models of COmmensality for artificial Agents (COCOA) the Italian Ministry of University and Research founded project founded by Next Generation EU.
+
 [3] Mancini, M., Cavazza, N., Higgs, S., Huisman, G., Van Den Boer, J., Niewiadomski, R., Computational Commensality, Frontiers in Computer Science. 10.3389/fcomp.2022.1086841
-[4] Workshop on Multisensory Approaches to Human-Food Interaction: https://multisensoryhfi.wordpress.com/
+
+[4] Workshop on Multisensory Approaches to Human-Food Interaction: <https://multisensoryhfi.wordpress.com/>
+
 [5] Eat-IT: Interactive Food Workshop:
-https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/22272
+<https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/22272>
+
 [6] Niewiadomski, R., Ceccaldi, E., Huisman, G., Volpe, G., Mancini, M., Computational Commensality: From Theories to Computational Models for Social Food Preparation and Consumption in HCI, Frontiers in Robotics and AI, 6, 2019. 10.3389/frobt.2019.00119
-[7] RETHINK EATING 2020 Conference, https://Conferences.Au.Dk/Rethinkeating2020
+
+[7] RETHINK EATING 2020 Conference, <https://Conferences.Au.Dk/Rethinkeating2020>
