@@ -5,6 +5,8 @@
 
 ### Held in conjunction with ICMI2024 (Costa Rica) <https://icmi.acm.org/2024>
 
+[CoFI2024 Home](index.md)
+
 ## Organisers
 
 <img id="photo" src="images/Radek.jpg"><br/>
