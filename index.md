@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="styles/retro.css">
 <link rel="stylesheet" href="styles/images.css">
-[Committees](/committees.md)
+[CoFI2024 Home](index.md) [Committees](/committees.md) [More info](/moreinfo.md)
 
 ## First Multimodal Banquet: Exploring Innovative Technology for Commensality and Human-Food Interaction (CoFI2024)
 
