@@ -17,7 +17,7 @@ Welcoming diverse participants from fields like computer science and psychology,
 
 [1] Mueller, F.F., Obrist, M., Bertran, F.A., Makam, N., Kim, S., Dawes, C., ... & Wang, Y. (2023). Grand Challenges in Human-Food Interaction, International Journal of Human-Computer Studies,Volume 183, 2024, 103197, ISSN 1071-581.
 
-[2] COmputational Models of COmmensality for artificial Agents (COCOA) the Italian Ministry of University and Research founded project founded by Next Generation EU.
+[2] Computational Models of COmmensality for artificial Agents (COCOA) the Italian Ministry of University and Research founded project founded by Next Generation EU.
 
 [3] Mancini, M., Cavazza, N., Higgs, S., Huisman, G., Van Den Boer, J., Niewiadomski, R., Computational Commensality, Frontiers in Computer Science. 10.3389/fcomp.2022.1086841
 
