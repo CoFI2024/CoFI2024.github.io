@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="styles/retro.css">
 <link rel="stylesheet" href="styles/images.css">
+![alt text](images/cofi2024-photo.png)
+
 [Committees](/committees.md)
 
 ## First Multimodal Banquet: Exploring Innovative Technology for Commensality and Human-Food Interaction (CoFI2024)
@@ -14,7 +16,7 @@ Commensality, the act of eating together, offers a rich multisensory and social 
 
 This workshop aims to explore how interactive technology can enrich dining experiences. The other aim is to build an interdisciplinary community around the topics of related to commensality and human-food interaction, with special focus on the role of multimodal interaction among commensal partners sharing food, being humans or artificial dining companions (such as social robots). We aim to collect novel contributions that explore how interactive technology can enhance, facilitate, or make these experiences more enjoyable.
 
-![alt text](images/cofi2024-photo.png)
+
 
 ## Important dates:
 
