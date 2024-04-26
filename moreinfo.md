@@ -6,6 +6,8 @@
 
 ### Held in conjunction with ICMI2024 (Costa Rica) <https://icmi.acm.org/2024>
 
+![alt text](images/best2.jpg)
+
 Commensality, the act of eating together, is a truly multimodal and interactive experience that can be enriched with the use of technology. Consider the scenario of dining at a restaurant with a close companion. The **interaction with food** is a multimodal interaction where smells, colors, sounds, and textures accompany the taste to create a **multisensory experience**. Our perception of food is not only influenced by the food itself, but also external aspects such as the ambient sounds and music, the shape of our plates, or even the weight of our utensils. Simultaneously, the table is also the center of another type of interaction – the **interaction between humans** (and in future **artificial companions**), who share not only food but also a unique social **experience**. The nonverbal behavior of the commensals (eaters) is particularly rich, while they share attention between the food consumption and engagement in conversation with others. Commensality presents a unique opportunity to not only explore the multisensory and social principles of dining, but also how technology can play a pivotal role in enhancing this experience. 
 
 We aim to collect novel contributions that explore how interactive technology can enhance, facilitate, or make these experiences more enjoyable. More specifically, the aim of the workshop is to build an interdisciplinary community around the topics of multimodal interaction in commensal settings and human-food interaction, fostering collaboration, knowledge exchange and problem-solving among researchers with different backgrounds. 
