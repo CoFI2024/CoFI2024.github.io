@@ -16,22 +16,6 @@ Commensality, the act of eating together, offers a rich multisensory and social 
 
 This workshop aims to explore how interactive technology can enrich dining experiences. The other aim is to build an interdisciplinary community around the topics of related to commensality and human-food interaction, with special focus on the role of multimodal interaction among commensal partners sharing food, being humans or artificial dining companions (such as social robots). We aim to collect novel contributions that explore how interactive technology can enhance, facilitate, or make these experiences more enjoyable.
 
-
-
-## Important dates:
-
-- Paper submission (long and short): May 27, 2024
-- Notification of acceptance: June 24, 2024
-- Camera-ready version: July 12, 2024
-
-## Submission instructions
-
-Papers can be short (4 pages + bibliography) or long (7 pages + bibliography) either in ACM sigconf Latex or Word format <https://www.acm.org/publications/authors/submissions>:
-
-- latex <https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip>
-- word (Windows) <https://portalparts.acm.org/hippo/enhanced_word_templates/Windows/windows.zip>
-- word (Mac) <https://portalparts.acm.org/hippo/enhanced_word_templates/MAC_2016/mac_2016.zip>
-
 ## Topics of interest
 
 - Multimodal interaction in commensal setting
@@ -55,20 +39,26 @@ Papers can be short (4 pages + bibliography) or long (7 pages + bibliography) ei
 - Commensality and Food in Social Media
 - Social AI and commensal practices
 
-<!--
-* [Maurizio Mancini](mailto:m.mancini@di.uniroma1.it), University of Rome “Sapienza”, Italy
-* [Giovanna Varni](mailto:giovanna.varni@telecom-paris.fr), LTCI, Télécom Paris, Institut polytechnique de Paris, France
-* [David Murphy](mailto:d.murphy@cs.ucc.ie), University College Cork (UCC), Ireland
-* [Fabio Pellacini](mailto:pellacini@di.uniroma1.it ), University of Rome “Sapienza”, Italy
-* [Laura Maye](mailto:laura.maye@ucc.ie), University College Cork, Ireland
-* [Patrick O'Toole](mailto:patrick.otoole@umail.ucc.ie), University College Cork, Ireland
+## Important dates:
 
+- Paper submission (long and short): May 27, 2024
+- Notification of acceptance: June 24, 2024
+- Camera-ready version: July 12, 2024
 
-## Supporters
+## Submission instructions
 
-This workshop has been partially supported by the French National Research Agency (ANR) in the framework of its JCJC program (GRACE, project ANR-18-CE33-0003-01, funded under the Artificial Intelligence Plan) and by the SceneHash (A Content-Indexable Data Structure for Collaborative 3D Environments) Project.
+We encourage the submission of original contributions, investigating novel methodologies to build creative systems and algorithms for commensality and HFI. The call is open for both complete and ongoing works, research ideas and the position papers, especially interdisciplinary contributions in line with the main goals of the workshop.  In particular, authors can submit:
 
-<img src="logo-anr.png" alt="ANR" width="60" style="float: left; margin-right: 10px;"/>
-<img src="LOGO_officiel_cropped.png" alt="ANR" width="180" style="float: left; margin-right: 10px;"/>
+- Long papers (max. 7 pages + references – ACM format);
 
--->
+- Short/Position/Discussion papers (max 4 pages + references – ACM format);
+
+Submission Site <https://easychair.org/conferences/?conf=cofi2024>
+
+All submitted papers will be evaluated by at least two members of the program committee, based on originality, significance, relevance, and technical quality. Submissions should be single blinded, i.e. authors names should be included in the submissions. At least one of the authors should register and take part at the workshop to make the presentation. 
+
+Papers can be short (4 pages + bibliography) or long (7 pages + bibliography) either in ACM sigconf Latex or Word format <https://www.acm.org/publications/authors/submissions>:
+
+- latex <https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip>
+- word (Windows) <https://portalparts.acm.org/hippo/enhanced_word_templates/Windows/windows.zip>
+- word (Mac) <https://portalparts.acm.org/hippo/enhanced_word_templates/MAC_2016/mac_2016.zip>
