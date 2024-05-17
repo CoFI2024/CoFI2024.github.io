@@ -41,9 +41,9 @@ This workshop aims to explore how interactive technology can enrich dining exper
 
 ## Important dates:
 
-- Paper submission (long and short): May 27, 2024
-- Notification of acceptance: June 24, 2024
-- Camera-ready version: July 12, 2024
+- Paper submission (long and short): ~~May 27, 2024~~ June 3rd, 2024
+- Notification of acceptance: ~~June 24, 2024~~ June 28th, 2024
+- Camera-ready version: ~~July 12, 2024~~ July 15th, 2024
 
 ## Submission instructions
 
