@@ -34,7 +34,14 @@ Department of Computer Science, Sapienza University of Rome
 
 ## Program Committee
 
-TBA
+* Takuji Narumi <narumi@cyber.t.u-tokyo.ac.jp> - University of Tokyo, Japan
+* Chi Thanh Vi <vcthanh@hcmiu.edu.vn> - International University (HCMIU), VNU-HCM, Vietnam
+* Jialin Deng <jialin.deng@monash.edu> -  Monash University, USA
+* Hunter Fong  <drhunterfong@gmail.com> - University of Genoa, Italy
+* Beatrice Biancardi <bbiancardi@cesi.fr> - CESI-LINEACT, France
+* Cigdem Beyan <cigdem.beyan@univr.it>   - University of Verona, Italy
+* Yoram Chisik <ychisik@gmail.com> - Goldsmiths, University of London, UK
+* Dario Pasquali <dario.pasquali@iit.it>  - Istituto Italiano di Tecnologia, Italy
 
 <!--
 * [Maurizio Mancini](mailto:m.mancini@di.uniroma1.it), University of Rome “Sapienza”, Italy
