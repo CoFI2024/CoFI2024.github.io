@@ -12,6 +12,23 @@
 
 http://ceur-ws.org/Vol-2934/-->
 
+    Workshop date: Nov 8, 2024
+
+    13.30-13.35 Introduction
+    13.35-13.50 paper: "Exploring how colour-taste associations affect our experience of food In Real Life and Extended Reality"
+    13.50-14.05 paper: "Computational Gastronomy and Eating with Acoustophoresis"
+    14.05-14.20 paper: "Do We Need Artificial Dining Companions? Exploring Human Attitudes Toward Robots in Commensality Settings"
+    14.20-14.35 paper: "Analyzing Emotion Impact of Mukbang Viewing Through Facial Microexpression Recognition using SVM"
+    14.35-14.50 paper: "Towards Wine Tasting Activity Recognition for a Digital Sommelier"
+    14.50-15.05 paper: "Automatic Recognition of Commensal Activities in Co-located and Online settings"
+    15.05-15.20 paper: "Smart Compost Bin for Measurement of Consumer Food Waste"
+
+    15.20-15.30 Break
+
+    15.30-16.45 Hands on activity "The thing from the future"
+    16.45-17.00 Presentation of the results of "The thing from the future"
+    16.50-17.30 Panel discussion
+
 Commensality, the act of eating together, offers a rich multisensory and social experience that can be enhanced through technology. Dining involves interactions with food, where smells, colors, sounds, and textures contribute to a multisensory experience and the table becomes a focal point for social interaction, with nonverbal cues and conversations being indispensable elements of commensal experience.
 
 This workshop aims to explore how interactive technology can enrich dining experiences. The other aim is to build an interdisciplinary community around the topics of related to commensality and human-food interaction, with special focus on the role of multimodal interaction among commensal partners sharing food, being humans or artificial dining companions (such as social robots). We aim to collect novel contributions that explore how interactive technology can enhance, facilitate, or make these experiences more enjoyable.
