@@ -12,6 +12,9 @@
 
 http://ceur-ws.org/Vol-2934/-->
 
+<https://uniroma1.zoom.us/j/89330939118?pwd=ANhMqL455Tu4805p4KPsfWi5NbYBll.1>
+
+
     Workshop date: Nov 8, 2024
 
     13.30-13.35 Introduction
